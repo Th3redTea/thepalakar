@@ -1,5 +1,5 @@
 ### thepalakar
-This repo is like the "plakar" you have at home where you put all the technical tools and stuff you use to fix and craft things. So  everytime you set to play a CTF or do some bug bounty, feel free to open this repo and look for that one specific tools that will help you do the job. And please, feel free to contribute with your own tools and links. 
+This repo is like the "plakar" you have at home where you put all the technical tools and stuff you use to fix and craft things. So  everytime you set to play a CTF or do some bug bounty, feel free to open this repo and look for that one specific tool that will help you do the job. And please, feel free to contribute with your own tools and links. 
 
 
 ## Tools to burn iso to usb
@@ -14,5 +14,15 @@ This repo is like the "plakar" you have at home where you put all the technical 
 
 
 ## Bug Bountry Tools
+- [Burp Proxy](https://portswigger.net)
+- [Fiddler](https://www.telerik.com/download/fiddler)
+- [DirBuster](https://sourceforge.net/projects/dirbuster/)
+- [GoBuster](https://github.com/OJ/gobuster)
+- [Knockpy](https://github.com/guelfoweb/knock)
+- [SQLmap](http://sqlmap.org)
+- [Eyewitness](https://github.com/ChrisTruncer/EyeWitness)
+- [Nikto](https://cirt.net/nikto2)
+- [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
+- [Wappalyzer](https://wappalyzer.com/download)
 - [CloudFail](https://github.com/m0rtem/CloudFail) - A reconnaissance tool used to gather enough information about a target protected by Cloudflare.
 
