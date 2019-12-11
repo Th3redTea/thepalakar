@@ -6,9 +6,13 @@ This repo is like the "plakar" you have at home where you put all the technical 
 - [Etcher](https://www.balena.io/etcher/) - Linux tool to burn iso files in usb (used to install Kali linux)
 
 
-## Useful Resources & Tools For Bug Bounty
+## Useful Resources For Bug Bounty
 - [Google dorks for disclosure programs](https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt)
+- [AwsomeWAFS](https://github.com/0xInfection/Awesome-WAF) - Learn Everything abou Web Application Firewalls. 
+- [thedarknes](https://thedarkness.ueuo.com/METHODOLOGY.txt) - Methodology to follow when hunting. 
+- [XSS_Payloads](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45) - A huge list of XSS payload to bypass filiters 
+
+
+## Bug Bountry Tools
 - [CloudFail](https://github.com/m0rtem/CloudFail) - A reconnaissance tool used to gather enough information about a target protected by Cloudflare.
--[]
-- Bug Bounty methodologies
-  [the darkness](https://thedarkness.ueuo.com/METHODOLOGY.txt) 
+
