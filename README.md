@@ -3,5 +3,4 @@ This repo is like the "plakar" you have at home where you put all the technical 
 
 
 ## tools to burn kali to usb
-https://www.balena.io/etcher/
-- [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
+- [Etcher](https://www.balena.io/etcher/) - Linux tool to burn iso files in usb.(used to install Kali linux)
