@@ -10,5 +10,5 @@ This repo is like the "plakar" you have at home where you put all the technical 
 - [Google dorks for disclosure programs](https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt)
 - [CloudFail](https://github.com/m0rtem/CloudFail) - A reconnaissance tool used to gather enough information about a target protected by Cloudflare.
 -[]
-# Bug Bounty methodologies
-[the darkness](https://thedarkness.ueuo.com/METHODOLOGY.txt) 
+- Bug Bounty methodologies
+  [the darkness](https://thedarkness.ueuo.com/METHODOLOGY.txt) 
