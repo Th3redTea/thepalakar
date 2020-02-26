@@ -26,3 +26,7 @@ This repo is like the "plakar" you have at home where you put all the technical 
 - [Wappalyzer](https://wappalyzer.com/download)
 - [CloudFail](https://github.com/m0rtem/CloudFail) - A reconnaissance tool used to gather enough information about a target protected by Cloudflare.
 
+# Tools for CTF
+## Forensics
+[zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
+
