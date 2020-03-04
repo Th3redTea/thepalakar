@@ -28,7 +28,7 @@ This repo is like the "plakar" you have at home where you put all the technical 
 
 # Tools for CTF
 ## Forensics
-[zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
+[zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP.
 [photorec](https://www.cgsecurity.org/Download_and_donate.php/testdisk-7.2-WIP.linux26.tar.bz2) - Tool to recover photos.
 
 ## Reverse Engineering & Binary Exploitation
